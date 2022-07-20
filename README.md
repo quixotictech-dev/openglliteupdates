@@ -1,0 +1,2 @@
+# openglliteupdates
+Magisk module content 
